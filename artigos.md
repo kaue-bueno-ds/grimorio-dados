@@ -9,6 +9,8 @@
 | [Netflix’s Trillions Scale Real-time Data Infrastructure](https://blog.dataengineerthings.org/netflixs-trillions-scale-real-time-data-infrastructure-f3abb75ca1a1)|❌|
 | [Dominando dados em streaming em tempo real](https://building.nubank.com/pt-br/dominando-dados-em-streaming-em-tempo-real/?utm_source=www.datahackers.news&utm_medium=newsletter&utm_campaign=ela-ganhou-o-premio-de-melhor-analise-de-dados-do-brasil-em-2025&_bhlid=abfc7a48ccc904a4eeed4989ac1262b43633b41e)|✅|
 | [Como transformar Dados em Tempo Real usando AWS Kinesis Firehose e Lambda](https://www.coffeeandtips.com/post/como-transformar-dados-em-tempo-real?utm_campaign=d5188e87-5d5b-4e87-a147-ea4f7b4cb702&utm_source=so&utm_medium=mail&cid=e96bf53a-0918-48d7-9301-52b7e4416322)|❌|
+| [GenPlat: A Plataforma de IA Generativa do iFood](https://medium.com/ifood-tech/genplat-a-plataforma-de-ia-generativa-do-ifood-8d5715015b4a)|❌|
+
 
 
 
