@@ -2,7 +2,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
 | [Como o iFood conseguiu identificar tabelas duplicadas no Data Lake?](https://medium.com/ifood-tech/como-o-ifood-conseguiu-identificar-tabelas-duplicadas-no-data-lake-a5151d43f338)| ❌                   |
 | [De papiros a queries: Alexandria no centro das regras de negócio do iFood](https://medium.com/ifood-tech/de-papiros-a-queries-alexandria-no-centro-das-regras-de-neg%C3%B3cio-do-ifood-3e580b0b6e7f)|❌|
-| [SAL: Uma Abordagem Inteligente para Escalar a Rotulação de Dados no iFood](https://medium.com/ifood-tech/sal-uma-abordagem-inteligente-para-escalar-a-rotula%C3%A7%C3%A3o-de-dados-no-ifood-8e52f1e4a9a1)|❌|
+| [SAL: Uma Abordagem Inteligente para Escalar a Rotulação de Dados no iFood](https://medium.com/ifood-tech/sal-uma-abordagem-inteligente-para-escalar-a-rotula%C3%A7%C3%A3o-de-dados-no-ifood-8e52f1e4a9a1)|✅|
 | [GenPlat: A Plataforma de IA Generativa do iFood](https://medium.com/ifood-tech/genplat-a-plataforma-de-ia-generativa-do-ifood-8d5715015b4a)|❌|
 | [Quando o pesadelo do Matching de dados começa (e como o TheFuzz pode ajudar)](https://medium.com/data-hackers/quando-o-pesadelo-do-matching-de-dados-come%C3%A7a-e-como-o-thefuzz-pode-ajudar-30b9149c54bc)|❌|
 | [SQL Functions That Solve 80% of Data Problems](https://medium.com/ai-analytics-diaries/sql-functions-that-solve-80-of-data-problems-10027697849e)|❌|
